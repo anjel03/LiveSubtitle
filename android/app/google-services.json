@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715017586825",
+    "firebase_url": "https://fir-login-f44bc-default-rtdb.firebaseio.com",
+    "project_id": "fir-login-f44bc",
+    "storage_bucket": "fir-login-f44bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715017586825:android:bd371945dfe8bb0ee91e58",
+        "android_client_info": {
+          "package_name": "com.example.car_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715017586825-k7g5v2qql6nr500sdi4cp543maqnbid7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzbs40sgYJW1A4todQTQ_4tTXZ3EsarI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715017586825-k7g5v2qql6nr500sdi4cp543maqnbid7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
